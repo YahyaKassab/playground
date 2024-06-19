@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "canvas": "^2.11.2",
+    "fs": "^0.0.1-security",
+    "gm": "^1.25.0",
+    "jimp": "^0.22.12",
+    "pdf-lib": "^1.17.1",
+    "pdf-to-img": "^4.0.0",
+    "pdf2pic": "^3.1.1",
+    "pdfkit": "^0.15.0",
+    "twitter_cldr": "^2.3.0"
+  }
+}
